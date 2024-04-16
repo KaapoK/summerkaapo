@@ -1,2 +1,2 @@
 # summerkaapo
-Palvelintenhallinta
+Tämä on palvelintenhallintakurssin tehtävä, jossa muutin readme.
